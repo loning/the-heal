@@ -41,38 +41,38 @@ Ten archetypal "incurable" conditions examined through the ψ-lens, revealing th
 17. [Congestive Heart Failure — ψ-Compression of Feeling](part-02-disease-specific-maps/chapter-017-heart-failure-compression.md)
 18. [Chronic Depression — ELF-field Blackout](part-02-disease-specific-maps/chapter-018-depression-elf-blackout.md)
 19. [Parkinson's — Collapse of Movement ψ-Patterns](part-02-disease-specific-maps/chapter-019-parkinsons-movement-collapse.md)
-20. [Vegetative State — ψ-shell Freeze with Inner Observer Residue](part-02-disease-specific-maps/chapter-020-vegetative-state-freeze.md)
+20. [Vegetative State — ψ-shell Freeze with Inner Observer Residue](part-02-disease-specific-maps/chapter-020-vegetative-state-shell-freeze.md)
 
 ### PART III: Collapse-Resonance Healing Protocols
 **Chapters 21-30**
 
 Practical methodologies for dissolving incurability through ψ-structural intervention.
 
-21. [ψ-Rewriting the Diagnosis](part-03-healing-protocols/chapter-021-rewriting-diagnosis.md)
-22. [ELF-Field Restoration via Meaning Reconstruction](part-03-healing-protocols/chapter-022-elf-field-restoration.md)
-23. [ψ-Reanchoring the Observer](part-03-healing-protocols/chapter-023-reanchoring-observer.md)
-24. [Dream Healing and Shell Substitution](part-03-healing-protocols/chapter-024-dream-healing-shell.md)
-25. [Coupling-Based Healing via High-Frequency Fields](part-03-healing-protocols/chapter-025-coupling-healing-frequency.md)
-26. [Death Redefined: Peaceful Exit as ψ-Ascension](part-03-healing-protocols/chapter-026-death-redefined-ascension.md)
-27. [Collapse-path Reorientation through Gratitude](part-03-healing-protocols/chapter-027-gratitude-reorientation.md)
-28. [Symbolic Medicine: Images, Myth & ψ-Structure](part-03-healing-protocols/chapter-028-symbolic-medicine.md)
-29. [Time-Collapse Healing: Past-Future Collapse Repair](part-03-healing-protocols/chapter-029-time-collapse-healing.md)
-30. [Observer Collaboration in Critical Conditions](part-03-healing-protocols/chapter-030-observer-collaboration.md)
+21. [ψ-Rewriting the Diagnosis](part-03-collapse-resonance-protocols/chapter-021-psi-rewriting-diagnosis.md)
+22. [ELF-Field Restoration via Meaning Reconstruction](part-03-collapse-resonance-protocols/chapter-022-elf-field-restoration.md)
+23. [ψ-Reanchoring the Observer](part-03-collapse-resonance-protocols/chapter-023-psi-reanchoring-observer.md)
+24. [Dream Healing and Shell Substitution](part-03-collapse-resonance-protocols/chapter-024-dream-healing-shell-substitution.md)
+25. [Coupling-Based Healing via High-Frequency Fields](part-03-collapse-resonance-protocols/chapter-025-coupling-based-healing-high-frequency-fields.md)
+26. [Death Redefined: Peaceful Exit as ψ-Ascension](part-03-collapse-resonance-protocols/chapter-026-death-redefined-peaceful-exit-psi-ascension.md)
+27. [Collapse-path Reorientation through Gratitude](part-03-collapse-resonance-protocols/chapter-027-collapse-path-reorientation-gratitude.md)
+28. [Symbolic Medicine: Images, Myth & ψ-Structure](part-03-collapse-resonance-protocols/chapter-028-symbolic-medicine-images-myth-psi-structure.md)
+29. [Time-Collapse Healing: Past-Future Collapse Repair](part-03-collapse-resonance-protocols/chapter-029-time-collapse-healing-past-future-repair.md)
+30. [Observer Collaboration in Critical Conditions](part-03-collapse-resonance-protocols/chapter-030-observer-collaboration-critical-conditions.md)
 
 ### PART IV: Medical Collapse Compatibility & Integration
 **Chapters 31-40**
 
 Bridging ψ-theory with existing medical paradigms for practical application.
 
-31. [How ψ-Theory Can Integrate with Oncology](part-04-medical-integration/chapter-031-integrate-oncology.md)
-32. [Working Alongside Palliative Care](part-04-medical-integration/chapter-032-palliative-care.md)
-33. [Role of Pain Medicine in Collapse-Field Modulation](part-04-medical-integration/chapter-033-pain-medicine-modulation.md)
-34. [Psychiatric Collapse and ψ-Reconstruction](part-04-medical-integration/chapter-034-psychiatric-reconstruction.md)
-35. [Surgery as ψ-Structure Disruption/Repair](part-04-medical-integration/chapter-035-surgery-structure-repair.md)
-36. [Hospice as Sacred Shell Transfer](part-04-medical-integration/chapter-036-hospice-shell-transfer.md)
-37. [Clinical Trials and Collapse Experimentation](part-04-medical-integration/chapter-037-clinical-trials-collapse.md)
-38. [Diagnosis Disclosure as Collapse Imprint Moment](part-04-medical-integration/chapter-038-diagnosis-disclosure-imprint.md)
-39. [End-of-Life Planning as ψ-Architecture](part-04-medical-integration/chapter-039-end-of-life-architecture.md)
+31. [How ψ-Theory Can Integrate with Oncology](part-04-medical-integration/chapter-031-how-psi-theory-integrates-oncology.md)
+32. [Working Alongside Palliative Care](part-04-medical-integration/chapter-032-working-alongside-palliative-care.md)
+33. [Role of Pain Medicine in Collapse-Field Modulation](part-04-medical-integration/chapter-033-role-pain-medicine-collapse-field-modulation.md)
+34. [Psychiatric Collapse and ψ-Reconstruction](part-04-medical-integration/chapter-034-psychiatric-collapse-psi-reconstruction.md)
+35. [Surgery as ψ-Structure Disruption/Repair](part-04-medical-integration/chapter-035-surgery-psi-structure-disruption-repair.md)
+36. [Hospice as Sacred Shell Transfer](part-04-medical-integration/chapter-036-hospice-sacred-shell-transfer.md)
+37. [Clinical Trials and Collapse Experimentation](part-04-medical-integration/chapter-037-clinical-trials-collapse-experimentation.md)
+38. [Diagnosis Disclosure as Collapse Imprint Moment](part-04-medical-integration/chapter-038-diagnosis-disclosure-collapse-imprint.md)
+39. [End-of-Life Planning as ψ-Architecture](part-04-medical-integration/chapter-039-end-of-life-planning-psi-architecture.md)
 40. [Bioethics and Observer Autonomy](part-04-medical-integration/chapter-040-bioethics-observer-autonomy.md)
 
 ### PART V: Case Studies in Collapse-Reversal
@@ -80,13 +80,13 @@ Bridging ψ-theory with existing medical paradigms for practical application.
 
 Real-world examples of ψ-structural healing beyond medical possibility.
 
-41. [Spontaneous Remission and Observer Collapse](part-05-case-studies/chapter-041-spontaneous-remission.md)
+41. [Spontaneous Remission and Observer Collapse](part-05-case-studies/chapter-041-spontaneous-remission-observer-collapse.md)
 42. [Patients Who Rewrote Their Shell](part-05-case-studies/chapter-042-patients-rewrote-shell.md)
 43. [Dying People Who Came Back](part-05-case-studies/chapter-043-dying-came-back.md)
 44. [Healers Who Became the Healed](part-05-case-studies/chapter-044-healers-became-healed.md)
-45. [Family Collapse-Field as Healing Structure](part-05-case-studies/chapter-045-family-collapse-field.md)
-46. [Faith-Based Healing or ψ-Field Reboot?](part-05-case-studies/chapter-046-faith-psi-field-reboot.md)
-47. [Placebo as ELF-Field Trigger](part-05-case-studies/chapter-047-placebo-elf-trigger.md)
+45. [Family Collapse-Field as Healing Structure](part-05-case-studies/chapter-045-family-collapse-field-healing.md)
+46. [Faith-Based Healing or ψ-Field Reboot?](part-05-case-studies/chapter-046-faith-healing-psi-field-reboot.md)
+47. [Placebo as ELF-Field Trigger](part-05-case-studies/chapter-047-placebo-elf-field-trigger.md)
 48. [Remote Healing and ψ-Coupling Evidence](part-05-case-studies/chapter-048-remote-healing-coupling.md)
 49. [Cross-cultural Collapse Structures of Disease](part-05-case-studies/chapter-049-cross-cultural-collapse.md)
 50. [Children's Healing Paths beyond Language Collapse](part-05-case-studies/chapter-050-childrens-healing-paths.md)

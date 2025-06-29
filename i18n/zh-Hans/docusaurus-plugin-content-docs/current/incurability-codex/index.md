@@ -41,38 +41,38 @@ sidebar_position: 1
 17. [充血性心力衰竭 — 感受的ψ压缩](part-02-disease-specific-maps/chapter-017-heart-failure-compression.md)
 18. [慢性抑郁症 — ELF场断电](part-02-disease-specific-maps/chapter-018-depression-elf-blackout.md)
 19. [帕金森症 — 运动ψ模式的坍缩](part-02-disease-specific-maps/chapter-019-parkinsons-movement-collapse.md)
-20. [植物状态 — ψ外壳冻结与内在观察者残留](part-02-disease-specific-maps/chapter-020-vegetative-state-freeze.md)
+20. [植物状态 — ψ外壳冻结与内在观察者残留](part-02-disease-specific-maps/chapter-020-vegetative-state-shell-freeze.md)
 
 ### 第三部：坍缩共振疗愈协议
 **第21-30章**
 
 通过ψ结构干预消解不治之症的实用方法论。
 
-21. [ψ重写诊断](part-03-healing-protocols/chapter-021-rewriting-diagnosis.md)
-22. [通过意义重构恢复ELF场](part-03-healing-protocols/chapter-022-elf-field-restoration.md)
-23. [ψ重新锚定观察者](part-03-healing-protocols/chapter-023-reanchoring-observer.md)
-24. [梦境疗愈与外壳替换](part-03-healing-protocols/chapter-024-dream-healing-shell.md)
-25. [通过高频场的耦合疗愈](part-03-healing-protocols/chapter-025-coupling-healing-frequency.md)
-26. [重新定义死亡：平静离世作为ψ提升](part-03-healing-protocols/chapter-026-death-redefined-ascension.md)
-27. [通过感恩重定向坍缩路径](part-03-healing-protocols/chapter-027-gratitude-reorientation.md)
-28. [符号医学：图像、神话与ψ结构](part-03-healing-protocols/chapter-028-symbolic-medicine.md)
-29. [时间坍缩疗愈：过去-未来坍缩修复](part-03-healing-protocols/chapter-029-time-collapse-healing.md)
-30. [危重状态下的观察者协作](part-03-healing-protocols/chapter-030-observer-collaboration.md)
+21. [ψ重写诊断](part-03-collapse-resonance-protocols/chapter-021-psi-rewriting-diagnosis.md)
+22. [通过意义重构恢复ELF场](part-03-collapse-resonance-protocols/chapter-022-elf-field-restoration.md)
+23. [ψ重新锚定观察者](part-03-collapse-resonance-protocols/chapter-023-psi-reanchoring-observer.md)
+24. [梦境疗愈与外壳替换](part-03-collapse-resonance-protocols/chapter-024-dream-healing-shell-substitution.md)
+25. [通过高频场的耦合疗愈](part-03-collapse-resonance-protocols/chapter-025-coupling-based-healing-high-frequency-fields.md)
+26. [重新定义死亡：平静离世作为ψ提升](part-03-collapse-resonance-protocols/chapter-026-death-redefined-peaceful-exit-psi-ascension.md)
+27. [通过感恩重定向坍缩路径](part-03-collapse-resonance-protocols/chapter-027-collapse-path-reorientation-gratitude.md)
+28. [符号医学：图像、神话与ψ结构](part-03-collapse-resonance-protocols/chapter-028-symbolic-medicine-images-myth-psi-structure.md)
+29. [时间坍缩疗愈：过去-未来坍缩修复](part-03-collapse-resonance-protocols/chapter-029-time-collapse-healing-past-future-repair.md)
+30. [危重状态下的观察者协作](part-03-collapse-resonance-protocols/chapter-030-observer-collaboration-critical-conditions.md)
 
 ### 第四部：医疗坍缩兼容性与整合
 **第31-40章**
 
 将ψ理论与现有医学范式桥接，以实现实际应用。
 
-31. [ψ理论如何与肿瘤学整合](part-04-medical-integration/chapter-031-integrate-oncology.md)
-32. [与姑息治疗并肩工作](part-04-medical-integration/chapter-032-palliative-care.md)
-33. [疼痛医学在坍缩场调制中的作用](part-04-medical-integration/chapter-033-pain-medicine-modulation.md)
-34. [精神科坍缩与ψ重构](part-04-medical-integration/chapter-034-psychiatric-reconstruction.md)
-35. [手术作为ψ结构的破坏/修复](part-04-medical-integration/chapter-035-surgery-structure-repair.md)
-36. [临终关怀作为神圣外壳转移](part-04-medical-integration/chapter-036-hospice-shell-transfer.md)
-37. [临床试验与坍缩实验](part-04-medical-integration/chapter-037-clinical-trials-collapse.md)
-38. [诊断披露作为坍缩印记时刻](part-04-medical-integration/chapter-038-diagnosis-disclosure-imprint.md)
-39. [临终规划作为ψ架构](part-04-medical-integration/chapter-039-end-of-life-architecture.md)
+31. [ψ理论如何与肿瘤学整合](part-04-medical-integration/chapter-031-how-psi-theory-integrates-oncology.md)
+32. [与姑息治疗并肩工作](part-04-medical-integration/chapter-032-working-alongside-palliative-care.md)
+33. [疼痛医学在坍缩场调制中的作用](part-04-medical-integration/chapter-033-role-pain-medicine-collapse-field-modulation.md)
+34. [精神科坍缩与ψ重构](part-04-medical-integration/chapter-034-psychiatric-collapse-psi-reconstruction.md)
+35. [手术作为ψ结构的破坏/修复](part-04-medical-integration/chapter-035-surgery-psi-structure-disruption-repair.md)
+36. [临终关怀作为神圣外壳转移](part-04-medical-integration/chapter-036-hospice-sacred-shell-transfer.md)
+37. [临床试验与坍缩实验](part-04-medical-integration/chapter-037-clinical-trials-collapse-experimentation.md)
+38. [诊断披露作为坍缩印记时刻](part-04-medical-integration/chapter-038-diagnosis-disclosure-collapse-imprint.md)
+39. [临终规划作为ψ架构](part-04-medical-integration/chapter-039-end-of-life-planning-psi-architecture.md)
 40. [生物伦理与观察者自主性](part-04-medical-integration/chapter-040-bioethics-observer-autonomy.md)
 
 ### 第五部：坍缩逆转案例研究
@@ -80,13 +80,13 @@ sidebar_position: 1
 
 超越医学可能性的ψ结构疗愈现实案例。
 
-41. [自发缓解与观察者坍缩](part-05-case-studies/chapter-041-spontaneous-remission.md)
+41. [自发缓解与观察者坍缩](part-05-case-studies/chapter-041-spontaneous-remission-observer-collapse.md)
 42. [重写自己外壳的患者](part-05-case-studies/chapter-042-patients-rewrote-shell.md)
 43. [濒死后回归的人](part-05-case-studies/chapter-043-dying-came-back.md)
 44. [成为被疗愈者的疗愈者](part-05-case-studies/chapter-044-healers-became-healed.md)
-45. [家庭坍缩场作为疗愈结构](part-05-case-studies/chapter-045-family-collapse-field.md)
-46. [基于信仰的疗愈还是ψ场重启？](part-05-case-studies/chapter-046-faith-psi-field-reboot.md)
-47. [安慰剂作为ELF场触发器](part-05-case-studies/chapter-047-placebo-elf-trigger.md)
+45. [家庭坍缩场作为疗愈结构](part-05-case-studies/chapter-045-family-collapse-field-healing.md)
+46. [基于信仰的疗愈还是ψ场重启？](part-05-case-studies/chapter-046-faith-healing-psi-field-reboot.md)
+47. [安慰剂作为ELF场触发器](part-05-case-studies/chapter-047-placebo-elf-field-trigger.md)
 48. [远程疗愈与ψ耦合证据](part-05-case-studies/chapter-048-remote-healing-coupling.md)
 49. [疾病的跨文化坍缩结构](part-05-case-studies/chapter-049-cross-cultural-collapse.md)
 50. [儿童超越语言坍缩的疗愈路径](part-05-case-studies/chapter-050-childrens-healing-paths.md)
